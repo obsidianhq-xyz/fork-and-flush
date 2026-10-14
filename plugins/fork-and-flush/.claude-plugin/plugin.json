@@ -1,0 +1,19 @@
+{
+  "name": "fork-and-flush",
+  "version": "0.1.5",
+  "description": "Explore competing solutions in fresh agent sessions and continue the best verified lineage within a fixed budget.",
+  "author": {
+    "name": "Obsidian Labs",
+    "email": "support@obsidianhq.xyz",
+    "url": "https://github.com/obsidianhq-xyz"
+  },
+  "homepage": "https://github.com/obsidianhq-xyz/skills/tree/main/plugins/fork-and-flush#readme",
+  "repository": "https://github.com/obsidianhq-xyz/skills",
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "optimization",
+    "agent-skills",
+    "fork-and-flush"
+  ]
+}

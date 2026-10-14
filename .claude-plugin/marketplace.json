@@ -1,0 +1,14 @@
+{
+  "name": "obsidianhq-skills",
+  "description": "Portable agent skills published by Obsidian Labs.",
+  "owner": {
+    "name": "Obsidian Labs"
+  },
+  "plugins": [
+    {
+      "name": "fork-and-flush",
+      "source": "./plugins/fork-and-flush",
+      "description": "Bounded research with fresh agent branches and verified selection."
+    }
+  ]
+}

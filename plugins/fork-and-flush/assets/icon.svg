@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Fork-and-flush</title>
+  <rect width="512" height="512" rx="112" fill="#132A2B"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="24">
+    <path d="M126 256H182C236 256 230 136 286 136H356" stroke="#8EA8A6"/>
+    <path d="M182 256C236 256 230 376 286 376H356" stroke="#8EA8A6"/>
+    <path d="M126 256H386M354 224L386 256L354 288" stroke="#8EF0BC"/>
+  </g>
+  <circle cx="126" cy="256" r="30" fill="#8EF0BC"/>
+  <circle cx="356" cy="136" r="22" fill="#8EA8A6"/>
+  <circle cx="356" cy="376" r="22" fill="#8EA8A6"/>
+</svg>
