@@ -1,0 +1,12 @@
+{
+  "name": "obsidianhq-fork-and-flush",
+  "description": "The portable fork-and-flush research skill from Obsidian Labs.",
+  "owner": {"name": "Obsidian Labs"},
+  "plugins": [
+    {
+      "name": "fork-and-flush",
+      "source": "./",
+      "description": "Bounded research with fresh agent branches and verified selection."
+    }
+  ]
+}
